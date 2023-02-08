@@ -23,4 +23,4 @@ setCookie("baseTemplateUrl", "https://template-path-here/")
 
 Demo
 
-![Demo](demo.png)
+![Demo](mdemo.png)
